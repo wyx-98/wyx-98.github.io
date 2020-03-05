@@ -7,5 +7,5 @@ author:     wyx-98
 header-img: img/post-bg-ios9-web.jpg
 catalog: true
 tags:
-    -life
+     life
 ---
