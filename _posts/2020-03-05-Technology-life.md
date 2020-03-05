@@ -1,3 +1,5 @@
+---
+
 layout:     post
 title:      程序员练级攻略
 subtitle:   程序员进阶
@@ -9,3 +11,4 @@ tags:
 
 ​	-life
 
+---
