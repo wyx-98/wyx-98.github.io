@@ -17,7 +17,7 @@ tags:								#标签
      - work
 ---
 
-![](/home/wyx/Documents/wyx-98.blog/wyx-98.github.io/img/cloud.native.stack.zh.png)
+![](/img/cloud.native.stack.zh.png)
 
 
 
