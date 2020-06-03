@@ -17,7 +17,7 @@ tags:								#标签
      - work
 ---
 
-![](/img/cloud.native.stack.zh.png)
+![](img/cloud.native.stack.zh.png)
 
 
 
