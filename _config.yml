@@ -62,8 +62,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 5fa61a73a73dc7cce790                            #生成的clientID
-  clientSecret: 85d0ba75780a846353fcbb128036e5e341745355    #生成的clientSecret
+  clientID: 50382a7658cece135b08                            #生成的clientID
+  clientSecret: 1621312473abb6dbc439e19d815868a7be9243d3    #生成的clientSecret
   repo: wyx-98.github.io    #仓库名称
   owner: wyx-98    #github用户名
   admin: wyx-98
